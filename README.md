@@ -22,8 +22,8 @@ After completing this course, you will be able to:
 - Lectures: Tuesdays & Thursdays 2:00-3:20pm, Eastern Time, in [PH A18B](https://map.concept3d.com/?id=192#!ct/19362,7382,1568,0,7308?m/72750)
 - Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/43625)
 - Slides: this website
-- Instructors: [Patrick Park](https://patpark.org) & [Bogdan Vasilescu](https://bvasiles.github.io)
-- Teaching assistant: [Meryl Ye](https://merylye.github.io)
+- Instructors: [Patrick Park](https://patpark.org)
+<!-- - Teaching assistant: [Meryl Ye](https://merylye.github.io) -->
 
 ### Course Syllabus and Policies
 The [syllabus](https://docs.google.com/document/d/1tpbfIJF3qw3Js54rgTto5x5g7cVg7NxWcHtPI4gELHc/edit?usp=sharing) covers course overview and objectives, evaluation, 
@@ -38,7 +38,7 @@ written project reports, and in-class presentations. -->
 
 ### Schedule
 
-Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2023](fall2023/).
+Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2024](fall2024/).
 
 | Date        		| Topic 	| Notes | Song of the Day
 | :------------- 	|:--------|:-------- |:--------|

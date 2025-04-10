@@ -9,7 +9,7 @@ description: "The Hidden Structures behind the Webs We Weave"
 ![My image](assets/images/wormholes.jpeg)
 
 {:.image-caption}
-Network wormholes in Singapore’s Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).  
+Network wormholes in Singapore’s Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).
 "Each dot represents an individual, and each edge represents a bidirected @mention. Nodes and edges are colored according to membership in distinct network communities. A sample of network wormholes (with range six or above and above-median tie strength) is shown in yellow. The inset highlights a single wormhole of range eight, i.e., the second-shortest path between the yellow nodes requires traversing eight intermediary ties (blue edges). The sizes of the nodes in the inset are proportional to the number of network neighbors."
 
 ### Overview
@@ -25,23 +25,30 @@ After completing this course, you will be able to:
 - interpret the results with socially meaningful insights
 
 ### Coordinates
-- Lectures: Tuesdays & Thursdays 2:00–3:20pm ET, in [PH A18B](https://map.concept3d.com/?id=192#!ct/19362,7382,1568,0,7308?m/72750)
-- Assignments, announcements, readings: [Canvas](https://canvas.cmu.edu/courses/43625)
+- Lectures: Tuesdays & Thursdays 2:00-3:20pm, Eastern Time, in [WEH 4709](https://map.concept3d.com/?id=192#!m/15801?share)
+- Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/43625)
 - Slides: this website
-- Instructors: [Patrick Park](https://patpark.org)
+- Instructor: [Patrick Park](https://patpark.org)
 <!-- - Teaching assistant: [Meryl Ye](https://merylye.github.io) -->
 
 ### Course Syllabus and Policies
 The [syllabus](https://docs.google.com/document/d/1tpbfIJF3qw3Js54rgTto5x5g7cVg7NxWcHtPI4gELHc/edit?usp=sharing) covers course overview and objectives, evaluation, 
 time management, late work policy, and collaboration policy.
 
+<!-- ### Learning Goals
+The [learning goals](learning-goals.md) describe what I want students to know 
+or be able to do by the end of the semester. 
+I evaluate whether learning goals have been achieved through assignments, 
+written project reports, and in-class presentations. -->
+
+
 ### Schedule
 
-Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses.
+Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2024](fall2024/).
 
 | Date        		| Topic 	| Notes | Song of the Day
 | :------------- 	|:--------|:-------- |:--------|
-Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) |
+Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
 Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | [Connected](https://www.youtube.com/watch?v=aatK_l9Yuyk) (Stereo MCs)
 Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | [One](https://www.youtube.com/watch?v=ftjEcrrf7r0) (U2)
 Thu, Sep 5 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | [In My Life](https://www.youtube.com/watch?v=ZqpysaAo4BQ) (The Beatles)
@@ -71,3 +78,4 @@ Tue, Nov 26 | Exemplary studies | [slides](slides/w14_1_exemplary_studies.pdf) |
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley | [slides](slides/carley_lecture.pdf) | 
 Thu, Dec 5 | Final Project Presentations | | 
+
