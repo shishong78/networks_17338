@@ -48,9 +48,9 @@ Below is a preliminary schedule for Fall 2024. The schedule is subject to change
 
 | Date        		| Topic 	| Notes | Song of the Day
 | :------------- 	|:--------|:-------- |:--------|
-Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
-Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | [Connected](https://www.youtube.com/watch?v=aatK_l9Yuyk) (Stereo MCs)
-Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | [One](https://www.youtube.com/watch?v=ftjEcrrf7r0) (U2)
+Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
+Thu, Aug 28 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | [Connected](https://www.youtube.com/watch?v=aatK_l9Yuyk) (Stereo MCs)
+<!-- Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | [One](https://www.youtube.com/watch?v=ftjEcrrf7r0) (U2)
 Thu, Sep 5 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | [In My Life](https://www.youtube.com/watch?v=ZqpysaAo4BQ) (The Beatles)
 Tue, Sep 10 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | [You Belong With Me](https://www.youtube.com/watch?v=vwp8Ur6tO-8) (Taylor Swift)
 Thu, Sep 12 | From social processes to graphs | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | [We Are Never Ever Getting Back Together](https://www.youtube.com/watch?v=zJFcr1KyFqE) (Taylor Swift)
@@ -77,5 +77,5 @@ Thu, Nov 21 | Ethical issues | [slides](slides/w13_2_ethics_in_social_network_re
 Tue, Nov 26 | Exemplary studies | [slides](slides/w14_1_exemplary_studies.pdf) | [The Man](https://www.youtube.com/watch?v=tbEekLA7J3Y) (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley | [slides](slides/carley_lecture.pdf) | 
-Thu, Dec 5 | Final Project Presentations | | 
+Thu, Dec 5 | Final Project Presentations | |  -->
 
