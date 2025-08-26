@@ -22,7 +22,9 @@ After completing this course, you will be able to:
 - Lectures: Tuesdays & Thursdays 2:00-3:20pm, Eastern Time, in [Wean Hall 4708](https://map.concept3d.com/?id=192#!ct/19362,7382,1568,0,7308?m/15801?s/wea)
 - Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/50123)
 - Slides: this website
-- Instructors: [Patrick Park](https://patpark.org)
+- Instructor: [Patrick Park](https://patpark.org)
+- Office hour: Wednesdays 2:00pm-3:00pm or by appointment (TCS 324)
+
 <!-- - Teaching assistant: [XX YY](https://xxx.github.io) -->
 
 ### Course Syllabus and Policies
