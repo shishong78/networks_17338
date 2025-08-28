@@ -44,7 +44,7 @@ Below is a preliminary schedule for Fall 2025. The schedule is subject to change
 
 | Date        		| Topic 	| Slides | Note
 | :------------- 	|:--------|:-------- |:--------|
-Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | 
+Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | |
 Thu, Aug 28 | Intro to graph theory | | 
 Tue, Sep 2 | Random networks | | 
 Thu, Sep 4 | Edges vs social ties | | 
