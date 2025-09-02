@@ -17,11 +17,11 @@ Throughout this course, students will work toward a final team project that (a) 
 
 ### Evaluation
 Evaluation will be based on the following distribution:
-
-- 10% class participation
-- 20% homework assignments & project proposal 
-- 30% midterm exam 
-- 40% final project
+- Class participation 10%
+- Homework assignments 30%
+- Final project proposal 10%
+- Midterm exam 20%
+- Final project 30%
 
 This course does not have a fixed letter grade policy; i.e., the final letter grades will not be A=90-100%, B=80-90%, etc.
 

@@ -46,9 +46,9 @@ Below is a preliminary schedule for Fall 2025. The schedule is subject to change
 | :------------- 	|:--------|:-------- |:--------|
 Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | |
 Thu, Aug 28 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | Assignment 1 Posted |
-Tue, Sep 2 | Random networks | | 
+Tue, Sep 2 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
 Thu, Sep 4 | Edges vs social ties | | 
-Tue, Sep 9 | Triads and structural balance | | 
+Tue, Sep 9 | Triads and structural balance | | Assignment 1 Due | 
 Thu, Sep 11 | From social processes to graphs | | 
 Tue, Sep 16 | Homophily and degree correlation (part 1) | | 
 Thu, Sep 18 | Homophily and degree correlation (part 2) | | 
