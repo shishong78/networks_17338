@@ -50,7 +50,7 @@ Tue, Sep 2 | Random networks | [slides](slides/w2_1_random_networks.pdf) |
 Thu, Sep 4 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
 Tue, Sep 9 | Triads and structural balance | [slides](w3_1_triads_and_structural_balance.pdf) | Assignment 1 Due | 
 Thu, Sep 11 | From social processes to graphs | [slides](w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
-Tue, Sep 16 | Homophily and degree correlation (part 1) | | 
+Tue, Sep 16 | Homophily and degree correlation (part 1) | [slides](w4_1_homophily_and_degree_correlation.pdf) | 
 Thu, Sep 18 | Homophily and degree correlation (part 2) | | 
 Tue, Sep 23 | Power and centrality in social networks | | 
 Thu, Sep 25 | Power and centrality in social exchange | | 
