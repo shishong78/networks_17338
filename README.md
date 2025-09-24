@@ -3,7 +3,7 @@
 ![My image](assets/images/wormholes.jpeg)
 
 {:.image-caption}
-Network wormholes in Singapore’s Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).
+Network wormholes in Singapore's Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).
 "Each dot represents an individual, and each edge represents a bidirected @mention. Nodes and edges are colored according to membership in distinct network communities. A sample of network wormholes (with range six or above and above-median tie strength) is shown in yellow. The inset highlights a single wormhole of range eight, i.e., the second-shortest path between the yellow nodes requires traversing eight intermediary ties (blue edges). The sizes of the nodes in the inset are proportional to the number of network neighbors."
 
 ### Overview
@@ -22,8 +22,10 @@ After completing this course, you will be able to:
 - Lectures: Tuesdays & Thursdays 2:00-3:20pm, Eastern Time, in [Wean Hall 4708](https://map.concept3d.com/?id=192#!ct/19362,7382,1568,0,7308?m/15801?s/wea)
 - Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/50123)
 - Slides: this website
-- Instructors: [Patrick Park](https://patpark.org)
-<!-- - Teaching assistant: [Meryl Ye](https://merylye.github.io) -->
+- Instructor: [Patrick Park](https://patpark.org)
+- Office hour: Wednesdays 2:00pm-3:00pm or by appointment (TCS 324)
+
+<!-- - Teaching assistant: [XX YY](https://xxx.github.io) -->
 
 ### Course Syllabus and Policies
 The [syllabus](https://docs.google.com/document/d/1zJo8ZNU9w8wSm-z7-DrGnluOziSDIAdE/edit?usp=sharing&ouid=108168623337271929770&rtpof=true&sd=true) covers course overview and objectives, evaluation, 
@@ -42,34 +44,33 @@ Below is a preliminary schedule for Fall 2025. The schedule is subject to change
 
 | Date        		| Topic 	| Slides | Note
 | :------------- 	|:--------|:-------- |:--------|
-Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
-Thu, Aug 28 | Intro to graph theory | [slides]() | d|
-Tue, Sep 2 | Random networks | [slides]() | 
-Thu, Sep 4 | Edges vs social ties | [slides]() | 
-Tue, Sep 9 | Triads and structural balance | [slides]() | 
-Thu, Sep 11 | From social processes to graphs | [slides]() | 
-Tue, Sep 16 | Homophily and degree correlation (part 1) | [slides]() | 
-Thu, Sep 18 | Homophily and degree correlation (part 2) | [slides]() | 
-Tue, Sep 23 | Power and centrality in social networks | [slides]() | 
-Thu, Sep 25 | Power and centrality in social exchange | [slides]() | 
-Tue, Sep 30 | Scale-free networks | [slides]() | 
-Thu, Oct 2 | Detecting communities | [slides]() | 
-Tue, Oct 7 | Structural equivalence | [slides]() | 
-Thu, Oct 9 | Midterm exam | 
-~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
-~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
-Tue, Oct 21 | Visualizing network data | 
-Thu, Oct 23 | Small-world networks | [slides]() |
-Tue, Oct 28 | Social Capital (part 1) | [slides]() | [All Star](https://www.youtube.com/watch?v=aT5JaB5agSE) (Smashmouth)
-Thu, Oct 30 |Social Capital (part 2) | [slides]()  | [God Bless the Child](https://www.youtube.com/watch?v=mp349H8G0XQ) (Billie Holiday)
-~~Tue, Nov 4~~ | ~~Democracy Day, no class~~ |
-Thu, Nov 6 | Diffusion and social contagion | [slides]() | [It's a Small World](https://www.youtube.com/watch?v=PxRW-duSCLA) (Disney)
-Tue, Nov 11 | Guest lecture 1 (tentative) | [slides]() | [I Heard It Through the Grapevine](https://www.youtube.com/watch?v=VWG3npfEoHo) (Marvin Gaye)
-Thu, Nov 13 | Guest lecture 2 (tentative) | [slides]() | [Bad Blood](https://www.youtube.com/watch?v=lUvBk4owRNU) (Taylor Swift)
-Tue, Nov 18 | Ethical issues | [slides]() | [Word of Mouth](https://www.youtube.com/watch?v=7jbSwMU7H0w) (Mike + The Mechanics)
-Thu, Nov 20 | Affiliations and overlapping subgroups | [slides]() | [Royals](https://www.youtube.com/watch?v=ZN0CEkJ_ZtI) (Lorde)
-Tue, Nov 25 | Opinion dynamics and polarization | [slides]() | [The Man](https://www.youtube.com/watch?v=tbEekLA7J3Y) (Taylor Swift)
-~~Thu, Nov 27~~ | ~~Thanksgiving, no class~~ |
-Tue, Dec 2 | Graphs and machine learning | [slides]() | 
-Thu, Dec 4 | Final Project Presentations | | 
-
+Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | |
+Thu, Aug 28 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | Assignment 1 Posted |
+Tue, Sep 2 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
+Thu, Sep 4 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
+Tue, Sep 9 | Triads and structural balance | [slides](w3_1_triads_and_structural_balance.pdf) | Assignment 1 Due | 
+Thu, Sep 11 | From social processes to graphs | [slides](w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
+Tue, Sep 16 | Homophily and degree correlation (part 1) | [slides](w4_1_homophily_and_degree_correlation.pdf) | 
+Thu, Sep 18 | Homophily and degree correlation (part 2) | [slides](w4_2_homophily_and_degree_correlation_pt2.pdf) | 
+Tue, Sep 23 | Power and centrality in social networks | [slides](w5_1_power_and_centrality_in_social_networks.pdf)  | 
+Thu, Sep 25 | Power and centrality in social exchange | | 
+Tue, Sep 30 | Scale-free networks | | 
+Thu, Oct 2 | Detecting communities | | 
+Tue, Oct 7 | Structural equivalence | | 
+Thu, Oct 9 | Midterm exam | | 
+~~Tue, Oct 15~~ | ~~Fall break, no class~~ | |
+~~Thu, Oct 17~~ | ~~Fall break, no class~~ | |
+Tue, Oct 21 | Visualizing network data | | 
+Thu, Oct 23 | Small-world networks | | 
+Tue, Oct 28 | Social Capital (part 1) | | 
+Thu, Oct 30 |Social Capital (part 2) | | 
+~~Tue, Nov 4~~ | ~~Democracy Day, no class~~ | |
+Thu, Nov 6 | Diffusion and social contagion | | 
+Tue, Nov 11 | Guest lecture 1 (tentative) | | 
+Thu, Nov 13 | Guest lecture 2 (tentative) | | 
+Tue, Nov 18 | Ethical issues | | 
+Thu, Nov 20 | Affiliations and overlapping subgroups | | 
+Tue, Nov 25 | Opinion dynamics and polarization | | 
+~~Thu, Nov 27~~ | ~~Thanksgiving, no class~~ | |
+Tue, Dec 2 | Graphs and machine learning | | 
+Thu, Dec 4 | Final Project Presentations | |
