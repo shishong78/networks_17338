@@ -43,7 +43,7 @@ written project reports, and in-class presentations. -->
 Below is a preliminary schedule for Fall 2025. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2024](fall2024/).
 
 | Date        		| Topic 	| Slides | Note
-| :------------- 	|:--------|:-------- |:--------|
+| :-------------- 	|:----------------|:-------- |:----------|
 Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | |
 Thu, Aug 28 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | Assignment 1 Posted |
 Tue, Sep 2 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
