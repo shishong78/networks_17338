@@ -42,35 +42,35 @@ written project reports, and in-class presentations. -->
 
 Below is a preliminary schedule for Fall 2025. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2024](fall2024/).
 
-| Date        		| Topic 	| Slides | Note
-| :-------------- 	|:----------------|:-------- |:------------------|
-Tue, Aug 26 | Introduction | [slides](slides/w1_1_introduction.pdf) | |
-Thu, Aug 28 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | Assignment 1 Posted |
-Tue, Sep 2 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
-Thu, Sep 4 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
-Tue, Sep 9 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | Assignment 1 Due | 
-Thu, Sep 11 | From social processes to graphs | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
-Tue, Sep 16 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | 
-Thu, Sep 18 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | 
-Tue, Sep 23 | Power and centrality in social networks | [slides](slides/w5_1_power_and_centrality_in_social_networks.pdf)  | 
-Thu, Sep 25 | Power and centrality in social exchange | | 
-Tue, Sep 30 | Scale-free networks | | 
-Thu, Oct 2 | Detecting communities | | 
-Tue, Oct 7 | Structural equivalence | | 
-Thu, Oct 9 | Midterm exam | | 
-~~Tue, Oct 15~~ | ~~Fall break, no class~~ | |
-~~Thu, Oct 17~~ | ~~Fall break, no class~~ | |
-Tue, Oct 21 | Visualizing network data | | 
-Thu, Oct 23 | Small-world networks | | 
-Tue, Oct 28 | Social Capital (part 1) | | 
-Thu, Oct 30 |Social Capital (part 2) | | 
-~~Tue, Nov 4~~ | ~~Democracy Day, no class~~ | |
-Thu, Nov 6 | Diffusion and social contagion | | 
-Tue, Nov 11 | Guest lecture 1 (tentative) | | 
-Thu, Nov 13 | Guest lecture 2 (tentative) | | 
-Tue, Nov 18 | Ethical issues | | 
-Thu, Nov 20 | Affiliations and overlapping subgroups | | 
-Tue, Nov 25 | Opinion dynamics and polarization | | 
-~~Thu, Nov 27~~ | ~~Thanksgiving, no class~~ | |
-Tue, Dec 2 | Graphs and machine learning | | 
-Thu, Dec 4 | Final Project Presentations | |
+| Date        	| Topic 	                                | Slides    | Note
+| :-------------|:------------------                        |:--------  |:------------------|
+Tue, Aug 26     | Introduction                              | [slides](slides/w1_1_introduction.pdf) | |
+Thu, Aug 28     | Intro to graph theory                     | [slides](slides/w1_2_graph_theory.pdf) | Assignment 1 Posted |
+Tue, Sep 2      | Random networks                           | [slides](slides/w2_1_random_networks.pdf) | 
+Thu, Sep 4      | Edges vs social ties                      | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
+Tue, Sep 9      | Triads and structural balance             | [slides](slides/w3_1_triads_and_structural_balance.pdf) | Assignment 1 Due | 
+Thu, Sep 11     | From social processes to graphs           | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
+Tue, Sep 16     | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | 
+Thu, Sep 18     | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | 
+Tue, Sep 23     | Power and centrality in social networks   | [slides](slides/w5_1_power_and_centrality_in_social_networks.pdf)  | 
+Thu, Sep 25     | Power and centrality in social exchange   | [slides](slides/w5_2_power_and_centrality_in_exchange_2.pdf)                                                            | 
+Tue, Sep 30     | Scale-free networks                       | [slides]()                                                            | 
+Thu, Oct 2      | Detecting communities                     | [slides]()                                                            | 
+Tue, Oct 7      | Structural equivalence                    | [slides]()                                                            | 
+Thu, Oct 9      | Midterm exam                              | [slides]()                                                            | 
+~~Tue, Oct 15~~ | ~~Fall break, no class~~                  |                                                                       |
+~~Thu, Oct 17~~ | ~~Fall break, no class~~                  |                                                                       |
+Tue, Oct 21     | Visualizing network data                  | [slides]()                                                            | 
+Thu, Oct 23     | Small-world networks                      | [slides]()                                                            | 
+Tue, Oct 28     | Social Capital (part 1)                   | [slides]()                                                            | 
+Thu, Oct 30     |Social Capital (part 2)                    | [slides]()                                                            | 
+~~Tue, Nov 4~~  | ~~Democracy Day, no class~~               |                                                                       |
+Thu, Nov 6      | Diffusion and social contagion            | [slides]()                                                            | 
+Tue, Nov 11     | Guest lecture 1 (tentative)               | [slides]()                                                            | 
+Thu, Nov 13     | Guest lecture 2 (tentative)               | [slides]()                                                            | 
+Tue, Nov 18     | Ethical issues                            | [slides]()                                                            | 
+Thu, Nov 20     | Affiliations and overlapping subgroups    | [slides]()                                                            | 
+Tue, Nov 25     | Opinion dynamics and polarization         | [slides]()                                                            | 
+~~Thu, Nov 27~~ | ~~Thanksgiving, no class~~                |                                                                       |
+Tue, Dec 2      | Graphs and machine learning               | [slides]()                                                            | 
+Thu, Dec 4      | Final Project Presentations               |                                                                       |
