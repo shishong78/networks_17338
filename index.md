@@ -54,8 +54,8 @@ Tue, Sep 16     | Homophily and degree correlation (part 1) | [slides](slides/w4
 Thu, Sep 18     | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | 
 Tue, Sep 23     | Power and centrality in social networks   | [slides](slides/w5_1_power_and_centrality_in_social_networks.pdf)  | 
 Thu, Sep 25     | Power and centrality in social exchange   | [slides](slides/w5_2_power_and_centrality_in_exchange_2.pdf)                                                            | 
-Tue, Sep 30     | Scale-free networks                       | [slides]()                                                            | 
-Thu, Oct 2      | Detecting communities                     | [slides]()                                                            | 
+Tue, Sep 30     | Scale-free networks                       | [slides](slides/w6_1_communities.pdf)                                                            | 
+Thu, Oct 2      | Detecting communities                     | [slides](slides/w6_2_scale_free_networks.pdf)                                                            | 
 Tue, Oct 7      | Structural equivalence                    | [slides]()                                                            | 
 Thu, Oct 9      | Midterm exam                              | [slides]()                                                            | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~                  |                                                                       |
