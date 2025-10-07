@@ -56,20 +56,20 @@ Tue, Sep 23     | Power and centrality in social networks   | [slides](slides/w5
 Thu, Sep 25     | Power and centrality in social exchange   | [slides](slides/w5_2_power_and_centrality_in_exchange_2.pdf)                | 
 Tue, Sep 30     | Detecting communities                     | [slides](slides/w6_1_communities.pdf)                                     | 
 Thu, Oct 2      | Scale-free networks                       | [slides](slides/w6_2_scale_free_networks.pdf)                              | 
-Tue, Oct 7      | Structural equivalence                    |                                                             | 
+Tue, Oct 7      | Affiliations and Overlapping Subgroups    | [slides](slides/w7_1_affiliations_and_overlapping_subgroups.pdf)                                            | 
 Thu, Oct 9      | Midterm exam                              |                                                             | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~                  |                                                             |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~                  |                                                             |
-Tue, Oct 21     | Visualizing network data                  |                                                             | 
+Tue, Oct 21     | Network Visualization                  |                                                             | 
 Thu, Oct 23     | Small-world networks                      |                                                             | 
 Tue, Oct 28     | Social Capital (part 1)                   |                                                             | 
-Thu, Oct 30     |Social Capital (part 2)                    |                                                             | 
+Thu, Oct 30     | Social Capital (part 2)                    |                                                             | 
 ~~Tue, Nov 4~~  | ~~Democracy Day, no class~~               |                                                             |
-Thu, Nov 6      | Diffusion and social contagion            |                                                             | 
+Thu, Nov 6      | Social Dynamics on Networks: Information Diffusion and Social Contagion |      | 
 Tue, Nov 11     | Guest lecture 1 (tentative)               |                                                             | 
 Thu, Nov 13     | Guest lecture 2 (tentative)               |                                                             | 
 Tue, Nov 18     | Ethical issues                            |                                                             | 
-Thu, Nov 20     | Affiliations and overlapping subgroups    |                                                             | 
+Thu, Nov 20     | Structural Equivalence    |                                                             | 
 Tue, Nov 25     | Opinion dynamics and polarization         |                                                             | 
 ~~Thu, Nov 27~~ | ~~Thanksgiving, no class~~                |                                                             |
 Tue, Dec 2      | Graphs and machine learning               |                                                             | 
