@@ -56,11 +56,11 @@ Tue, Sep 23     | Power and centrality in social networks   | [slides](slides/w5
 Thu, Sep 25     | Power and centrality in social exchange   | [slides](slides/w5_2_power_and_centrality_in_exchange_2.pdf)                | 
 Tue, Sep 30     | Detecting communities                     | [slides](slides/w6_1_communities.pdf)                                     | 
 Thu, Oct 2      | Scale-free networks                       | [slides](slides/w6_2_scale_free_networks.pdf)                              | 
-Tue, Oct 7      | Affiliations and Overlapping Subgroups    | [slides](slides/w7_1_affiliations_and_overlapping_subgroups.pdf)                                            | 
+Tue, Oct 7      | Affiliations and Overlapping Subgroups    | [slides](slides/w7_1_affiliations_and_overlapping_subgroups.pdf)      | 
 Thu, Oct 9      | Midterm exam                              |                                                             | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~                  |                                                             |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~                  |                                                             |
-Tue, Oct 21     | Network Visualization                  |                                                             | 
+Tue, Oct 21     | Network Visualization                     | [slides](slides/w9_1_network_visualization.pdf)             | 
 Thu, Oct 23     | Small-world networks                      |                                                             | 
 Tue, Oct 28     | Social Capital (part 1)                   |                                                             | 
 Thu, Oct 30     | Social Capital (part 2)                    |                                                             | 
