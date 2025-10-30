@@ -61,9 +61,9 @@ Thu, Oct 9      | Midterm exam                              |                   
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~                  |                                                             |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~                  |                                                             |
 Tue, Oct 21     | Network Visualization                     | [slides](slides/w9_1_network_visualization.pdf)             | 
-Thu, Oct 23     | Small-world networks                      |                                                             | 
-Tue, Oct 28     | Social Capital (part 1)                   |                                                             | 
-Thu, Oct 30     | Social Capital (part 2)                    |                                                             | 
+Thu, Oct 23     | Small-world networks                      | [slides](slides/w9_2_small_world_networks.pdf)             |  
+Tue, Oct 28     | Social Capital (part 1)                   | [slides](slides/w10_1_bridging_social_capital.pdf)             |  
+Thu, Oct 30     | Social Capital (part 2)                    | [slides](slides/w10_2_bonding_social_capital.pdf)             |  
 ~~Tue, Nov 4~~  | ~~Democracy Day, no class~~               |                                                             |
 Thu, Nov 6      | Social Dynamics on Networks: Information Diffusion and Social Contagion |      | 
 Tue, Nov 11     | Guest lecture 1 (tentative)               |                                                             | 
