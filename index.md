@@ -65,9 +65,9 @@ Thu, Oct 23     | Small-world networks                      | [slides](slides/w9
 Tue, Oct 28     | Social Capital (part 1)                   | [slides](slides/w10_1_bridging_social_capital.pdf)             |  
 Thu, Oct 30     | Social Capital (part 2)                    | [slides](slides/w10_2_bonding_social_capital.pdf)             |  
 ~~Tue, Nov 4~~  | ~~Democracy Day, no class~~               |                                                             |
-Thu, Nov 6      | Social Dynamics on Networks: Information Diffusion and Social Contagion |      | 
-Tue, Nov 11     | Guest lecture 1 (tentative)               |                                                             | 
-Thu, Nov 13     | Guest lecture 2 (tentative)               |                                                             | 
+Thu, Nov 6      | Social Dynamics on Networks: Information Diffusion and Social Contagion |  [slides](slides/w11_1_Diffusion_Contagion.pdf)    | 
+Tue, Nov 11     | Guest lecture 1 (Bogdan Vasilescu)        | [slides](https://drive.google.com/file/d/1JI12WKdIKTOAakO7p4SwKHH1Ow6IUeTR/view) | 
+Thu, Nov 13     | Guest lecture 2 (Bogdan Vasilescu)        | [slides](https://drive.google.com/file/d/1JI12WKdIKTOAakO7p4SwKHH1Ow6IUeTR/view) | 
 Tue, Nov 18     | Ethical issues                            |                                                             | 
 Thu, Nov 20     | Structural Equivalence    |                                                             | 
 Tue, Nov 25     | Opinion dynamics and polarization         |                                                             | 
